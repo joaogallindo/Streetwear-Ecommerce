@@ -114,7 +114,7 @@ const nomes = [
   "Gabriel - RS", "Beatriz - PE", "Caio - CE", "Julia - GO", "Enzo - PA",
   "Isabela - AM", "Thiago - ES", "Lara - MT", "Gustavo - PB", "Clara - MA",
   "Daniel - AL", "Helena - SE", "Rodrigo - PI", "Yasmin - RN", "Samuel - DF",
-  "Bianca - RO", "Eduardo - AC", "Luana - AP", "Diego - RR", "Sofia - TO"
+  "Bianca - SP", "Eduardo - AC", "Luana - AP", "Diego - RR", "Sofia - TO"
 
 ];
 
@@ -166,5 +166,6 @@ function iniciarContadorVisual() {
   atualizar();
   setInterval(atualizar, 1000);
 }
+
 
 document.addEventListener("DOMContentLoaded", iniciarContadorVisual);
