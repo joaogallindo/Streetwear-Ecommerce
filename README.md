@@ -5,11 +5,6 @@
 
 A HIGH Streetwear é um projeto de e-commerce voltado para a venda de produtos streetwear de forma mais rápida, dinâmica e eficiente. A plataforma foi pensada para otimizar a jornada do cliente, oferecendo uma navegação fluida, interface moderna e funcionalidades que facilitam a etapa da compra.
 
-**Destaques:**
-- Pré-venda de produtos exclusivos
-- Grupo VIP com benefícios especiais
-- Processo de compra simplificado e seguro
-- Atendimento personalizado via WhatsApp
 ---
 
 ## 🚀 Visualize o Projeto
